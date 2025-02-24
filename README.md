@@ -1,5 +1,2 @@
-# ConsumerAppUsingRestTemplate
-# ConsumerAppUsingRestTemplate
-# ConsumerAppUsingRestTemplate
-# ConsumerAppUsingRestTemplate
+
 # ConsumerAppUsingRestTemplate
